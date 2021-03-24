@@ -1,0 +1,44 @@
+{
+	"major_versions": [{
+			 "id": "0", 
+			 "name": "13.0",
+		         "current minor": "13.2",
+			 "download url": "https://www.postgresql.org/ftp/source/v13.0/",
+			 "first release": "September 24, 2020",
+			 "final release": "November 13, 2025",
+			 "supported": "Yes"
+			},
+			.
+			.
+			.
+			.,
+			{
+			 "id": "23",
+			 "name": "6.3",
+			 "current minor": "6.3.2",
+			 "download url": "https://www.postgresql.org/ftp/source/v6.3/",
+			 "first release": "March 1, 1998",
+			 "final release": "March 1, 2003",
+			 "supported": "No"
+			}
+			],
+	"minor_versions": [{
+			 "id": "1", 
+			 "name": "v13.2", 
+ 			 "download url": "https://www.postgresql.org/ftp/source/v13.2/",
+			 "release date": "2021-02-08 22:07:30",
+			 "support": "Yes"
+			},
+			.
+			.
+			.
+			.,
+			{
+			 "id": "393", 
+			 "name": "v6.1",
+			 "download url": "https://www.postgresql.org/ftp/source/v6.1/",
+			 "release date": "1999-06-17 12:49:26",
+			 "support": "No"
+			}
+			]
+}
